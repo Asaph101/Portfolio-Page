@@ -2,3 +2,11 @@ body {
   background-image: url("../images/Bio.jpg");
   background-size: 1380px
 }
+h1 {
+  text-align: left;
+  color: gold;
+}
+h2 {
+  text-align: center;
+  color: black;
+}
